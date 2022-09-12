@@ -1,6 +1,6 @@
 <div style="background: #d0f0c0; display: flex;">
     <div style="width: 30%; padding-left: 15px; padding-top: 20px">
-            <img style="border-radius: 50%;" src="1655400235504.jpg" alt="Girl in a jacket" width="150" height="150">
+            <img style="border-radius: 50%;" src="1655400235504.jpg" alt="Manuel" width="150" height="150">
     </div>
 	<div style="width: 70%;">
       <h3 style="color: black; margin-bottom: 3px;">
@@ -10,19 +10,19 @@
        Desarrollador FullStack
       </h3>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-       <img src="place_black_24dp.svg"> Oaxaca de Juárez, México
+       <img src="place_black_24dp.svg" style="background: #d0f0c0;"> Oaxaca de Juárez, México
       </h6>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-      	<img src="call_black_24dp.svg"> +52 951 100 62 11
+      	<img src="call_black_24dp.svg" style="background: #d0f0c0;"> +52 951 100 62 11
       </h6>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-      	<img src="email_black_24dp.svg"> manuel.delvillar.soriano@outloook.com    
+      	<img src="email_black_24dp.svg" style="background: #d0f0c0;"> manuel.delvillar.soriano@outloook.com    
       </h6>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-         <img src="iconmonstr-linkedin-3.svg"> <a href="https://www.linkedin.com/in/jos%C3%A9-manuel-del-villar-soriano-18531678/">LinkedIn</a> 
+         <img src="iconmonstr-linkedin-3.svg" style="background: #d0f0c0;"> <a href="https://www.linkedin.com/in/jos%C3%A9-manuel-del-villar-soriano-18531678/">LinkedIn</a> 
       </h6>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-         <img src="iconmonstr-github-1.svg"> <a href="https://www.github.com/ziceck">GitHub </a>
+         <img src="iconmonstr-github-1.svg" style="background: #d0f0c0;"> <a href="https://www.github.com/ziceck">GitHub </a>
       </h6>  
     </div>
 </div>
