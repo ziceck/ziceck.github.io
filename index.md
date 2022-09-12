@@ -26,10 +26,8 @@
       </h6>  
     </div>
 </div>
-
-
-
-
+<br>
+<br>
 <hr style="background: #d0f0c0;">
 
 ### Perfil ![](lightbulb_black_24dp.svg)
@@ -37,10 +35,8 @@
 
 Desarrollador FullStack Java/Angular con 3+ años de experiencia desarrollando aplicaciones web, participando en diversas actividades dentro del ciclo de desarrollo de software (planeación, definición de requerimientos, historias de usuario, diseño y prototipo, pruebas unitarias, despliegue, mantenimiento).
 
-
-
-
-
+<br>
+<br>
 <hr style="background: #d0f0c0;">
 
 ### Habilidades Personales ![](support_black_24dp.svg)
@@ -52,10 +48,8 @@ Desarrollador FullStack Java/Angular con 3+ años de experiencia desarrollando a
 - Proactivo
 - Comunicación
 
-
-
-
-
+<br>
+<br>
 <hr style="background: #d0f0c0;">
 
 ### Lenguajes & Frameworks ![](code_black_24dp.svg)
@@ -73,10 +67,8 @@ Desarrollador FullStack Java/Angular con 3+ años de experiencia desarrollando a
 - HTML
 - Spring & Spring Security
 
-
-
-
-
+<br>
+<br>
 <hr style="background: #d0f0c0">
 
 ### Herramientas de Desarrollo ![](terminal_black_24dp.svg)
@@ -100,10 +92,8 @@ Desarrollador FullStack Java/Angular con 3+ años de experiencia desarrollando a
 - Apache/Tomcat.
 - Docker.
 
-
-
-
-
+<br>
+<br>
 <hr style="background: #d0f0c0">
 
 ### Experiencia Laboral ![](work_black_24dp.svg)
@@ -121,11 +111,9 @@ Desarrollador ● Desarrollador web ● GFT Group
 - Realizar pruebas unitarias para garantizar la calidad del código. 
 - Mantenimiento y actualización de aplicaciones.
 
-
-
 Las principales tecnologías utilizadas son **Angular & TypeScript** para el front-end, Android Studio para probar la aplicación híbrida, **Postman** para probar las APIS, **npm** para gestión de paquetes, **WebStorm** como IDE, **Git/GitlLab** para el control de versiones.
 
-
+<br>
 
 #### Septiembre 2021 - Actualmente
 
@@ -145,6 +133,7 @@ Desarrollador freelance ● Desarrollador FullStack ● PandyWare
 Las principales tecnologías utilizadas son: **Git & GitHub**, **Spring & Java**, **Grails & Groovy**, **Angular & TypeScript**, **Apache & Tomcat**, **MySQL**.
 
 
+<br>
 
 #### Septiembre 2019 - Septiembre 2021
 
@@ -164,10 +153,8 @@ Desarrollador ● Desarrollador FullStack ● Universidad LaSalle Oaxaca
 
 Las principales tecnologías utilizadas fueron **Grails & Groovy** en el back-end para la creación de APIs REST, **Angular & TypeScript** en el front-end, **MySQL/PostgreSQL** para bases de datos, **Git/GitLab** para el control de versiones, Tomcat & Apache para realizar despliegue en ambiente productivo.
 
-
-
-
-
+<br>
+<br>
 <hr style="background: #d0f0c0">
 
 ### Prácticas Profesionales ![](school_black_24dp.svg)
@@ -187,11 +174,8 @@ Residente ● Desarrollador ● Secretaría de Economía Oaxaca
 
 Las principales tecnologías utilizadas fueron **Grails & Groovy** para el back-end, **Android Studio & Java** para creación de la aplicación, **Git/Bitbucket** para el manejo de control de versiones, **Balsamic mockups** para el maquetado de la aplicación, **MySQL** para la base de datos.
 
-
-
-
-
-
+<br>
+<br>
 <hr style="background: #d0f0c0">
 
 ### Estudios ![](history_edu_black_24dp.svg)
