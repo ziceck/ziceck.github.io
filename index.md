@@ -16,7 +16,7 @@
       	<img src="call_black_24dp.svg" style="background: #d0f0c0;"> +52 951 100 62 11
       </h6>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-      	<img src="email_black_24dp.svg" style="background: #d0f0c0;"> manuel.delvillar.soriano@outloook.com    
+      	<img src="email_black_24dp.svg" style="background: #d0f0c0;"> manuel.delvillar.soriano@outlook.com    
       </h6>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
          <img src="iconmonstr-linkedin-3.svg" style="background: #d0f0c0;"> <a href="https://www.linkedin.com/in/jos%C3%A9-manuel-del-villar-soriano-18531678/">LinkedIn</a> 

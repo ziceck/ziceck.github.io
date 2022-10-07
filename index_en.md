@@ -16,7 +16,7 @@
       	<img src="call_black_24dp.svg" style="background: #d0f0c0;"> +52 951 100 62 11
       </h6>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-      	<img src="email_black_24dp.svg" style="background: #d0f0c0;"> manuel.delvillar.soriano@outloook.com    
+      	<img src="email_black_24dp.svg" style="background: #d0f0c0;"> manuel.delvillar.soriano@outlook.com    
       </h6>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
          <img src="iconmonstr-linkedin-3.svg" style="background: #d0f0c0;"> <a href="https://www.linkedin.com/in/jos%C3%A9-manuel-del-villar-soriano-18531678/">LinkedIn</a> 
@@ -26,6 +26,7 @@
       </h6>  
     </div>
 </div>
+
 
 <br>
 <br>
@@ -53,7 +54,7 @@ FullStack Java/Angular developer with 3+ years of experience developing web appl
 <br>
 <hr style="background: #d0f0c0;">
 
-### Lenguages & Frameworks ![](code_black_24dp.svg)
+### Languages & Frameworks ![](code_black_24dp.svg)
 
 - Grails & Groovy
 - Spring & Java
@@ -162,7 +163,7 @@ The main technologies used were **Grails & Groovy** in the back-end for the crea
 
 Internship ● Developer ● Secretaría de Economía Oaxaca
 
-**Actividades realizadas:**
+**Activities:**
 
 - Android application development.
 - Creating APIs REST.
@@ -179,7 +180,7 @@ The main technologies used were **Grails & Groovy** for the back-end, **Android 
 
 <hr style="background: #d0f0c0">
 
-### Estucation ![](history_edu_black_24dp.svg)
+### Education ![](history_edu_black_24dp.svg)
 #### Instituto Tecnológico de Oaxaca (August 2013 - August 2019)
 
 I studied computer systems engineering, during my studies, in teamwork we developed an augmented reality application focused on learning to read in children, which participated in national events, the technologies used were **Vuforia** and **Unity**.
