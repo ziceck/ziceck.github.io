@@ -33,7 +33,7 @@
 ### Perfil ![](lightbulb_black_24dp.svg)
 
 
-Desarrollador FullStack Java/Angular con 3+ años de experiencia desarrollando aplicaciones web, participando en diversas actividades dentro del ciclo de desarrollo de software (planeación, definición de requerimientos, historias de usuario, diseño y prototipo, pruebas unitarias, despliegue, mantenimiento).
+Ingeniero de Software Java/Angular con 5+ años de experiencia desarrollando aplicaciones web, participando en diversas actividades dentro del ciclo de desarrollo de software (planeación, definición de requerimientos, historias de usuario, diseño y prototipo, pruebas unitarias, despliegue, mantenimiento).
 
 <br>
 <br>
@@ -98,7 +98,10 @@ Desarrollador FullStack Java/Angular con 3+ años de experiencia desarrollando a
 
 ### Experiencia Laboral ![](work_black_24dp.svg)
 
-#### Diciembre 2021 - Actualmente
+#### Noviembre 2022 - Actualmente
+Sofware Engineer ● Software Engineer II ● Western Governors University
+
+#### Diciembre 2021 - Noviembre 2022
 
 Desarrollador ● Desarrollador web ● GFT Group 
 
