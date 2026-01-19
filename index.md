@@ -1,6 +1,6 @@
 <div style="background: #d0f0c0; display: flex;">
     <div style="width: 30%; padding-left: 15px; padding-top: 20px">
-            <img style="border-radius: 50%;" src="1655400235504.jpg" alt="Manuel" width="150" height="150">
+            <img style="border-radius: 50%;" src="1691351443833.jpeg" alt="Manuel" width="150" height="150">
     </div>
 	<div style="width: 70%;">
       <h3 style="color: black; margin-bottom: 3px;">
@@ -155,6 +155,14 @@ Desarrollador ● Desarrollador FullStack ● Universidad LaSalle Oaxaca
 
 
 Las principales tecnologías utilizadas fueron **Grails & Groovy** en el back-end para la creación de APIs REST, **Angular & TypeScript** en el front-end, **MySQL/PostgreSQL** para bases de datos, **Git/GitLab** para el control de versiones, Tomcat & Apache para realizar despliegue en ambiente productivo.
+
+<br>
+<br>
+<hr style="background: #d0f0c0">
+
+### Certificaciones
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/74c42821-404e-4aca-9999-22890605be27/)
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/f5efdf9c-d266-4a45-baa1-7778ad2ee582)
 
 <br>
 <br>
