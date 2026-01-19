@@ -1,6 +1,6 @@
 <div style="background: #d0f0c0; display: flex;">
     <div style="width: 30%; padding-left: 15px; padding-top: 20px">
-            <img style="border-radius: 50%;" src="1655400235504.jpg" alt="Manuel" width="150" height="150">
+            <img style="border-radius: 50%;" src="1691351443833.jpeg" alt="Manuel" width="150" height="150">
     </div>
 	<div style="width: 70%;">
       <h3 style="color: black; margin-bottom: 3px;">
