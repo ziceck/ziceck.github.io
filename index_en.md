@@ -158,6 +158,14 @@ The main technologies used were **Grails & Groovy** in the back-end for the crea
 <br>
 <hr style="background: #d0f0c0">
 
+### Certifications
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/74c42821-404e-4aca-9999-22890605be27/)
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/f5efdf9c-d266-4a45-baa1-7778ad2ee582)
+
+<br>
+<br>
+<hr style="background: #d0f0c0">
+
 ### Internship ![](school_black_24dp.svg)
 #### August 2018 - May 2019
 
