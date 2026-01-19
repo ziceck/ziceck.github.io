@@ -160,7 +160,7 @@ Las principales tecnologías utilizadas fueron **Grails & Groovy** en el back-en
 <br>
 <hr style="background: #d0f0c0">
 
-### Certificaciones
+### Certificaciones ![](license.svg)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/74c42821-404e-4aca-9999-22890605be27/)
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/f5efdf9c-d266-4a45-baa1-7778ad2ee582)
 
