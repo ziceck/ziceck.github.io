@@ -118,7 +118,7 @@ Las principales tecnologías utilizadas son **Angular & TypeScript** para el fro
 
 <br>
 
-#### Septiembre 2021 - Actualmente
+#### Septiembre 2021 - Octubre 2022
 
 Desarrollador freelance ● Desarrollador FullStack ● PandyWare
 
