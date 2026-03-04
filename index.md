@@ -4,7 +4,7 @@
     </div>
 	<div style="width: 70%;">
       <h3 style="color: black; margin-bottom: 3px;">
-      	José Manuel Del villar Soriano    
+      	Manuel Del villar    
       </h3>
       <h3 style="color: black; margin-top: 3px; margin-bottom: 3px;">
        Desarrollador FullStack
