@@ -4,7 +4,7 @@
     </div>
 	<div style="width: 70%;">
       <h3 style="color: black; margin-bottom: 3px;">
-      	José Manuel Del villar Soriano    
+      	Manuel Del villar    
       </h3>
       <h3 style="color: black; margin-top: 3px; margin-bottom: 3px;">
        FullStack Developer
@@ -35,7 +35,7 @@
 ### About me ![](lightbulb_black_24dp.svg)
 
 
-FullStack Java/Angular developer with 3+ years of experience developing web applications, participating in various activities within the software development cycle (planning, requirements definition, user stories, design and prototype, unit testing, deployment, maintenance).
+Software Engineer Java/Angular with 6+ years of experience developing web applications, participating in various activities within the software development cycle (planning, requirements definition, user stories, design and prototype, unit testing, deployment, maintenance).
 
 <br>
 <br>
