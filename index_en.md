@@ -100,7 +100,20 @@ FullStack Java/Angular developer with 3+ years of experience developing web appl
 
 ### Professional experience ![](work_black_24dp.svg)
 
-#### December 2021 - Currently
+#### November 2022 - Currently
+Sofware Engineer ● Software Engineer II ● Western Governors University
+
+**Activities:**
+- Back end development using spring boot.
+- Front end development using Angular.
+- Queries using MySQL and ElasticSearch.
+- Document and create the run book for legacy applications.
+- Identify AWS resources associated with legacy applications.
+- Fix vulnerabilities in the application based on Veracode scans.
+- Keep AWS resources updated and pipelines working.
+- KT meetings to hand over apps.
+
+#### December 2021 - November 2022
 
 Developer ● Web developer ● GFT Group 
 
@@ -117,7 +130,7 @@ The main technologies used are **Angular & TypeScript** for the front-end, Andro
 
 <br>
 
-#### September 2021 - Currently
+#### September 2021 - October 2022
 
 Freelance developer ● FullStack developer ● PandyWare
 
