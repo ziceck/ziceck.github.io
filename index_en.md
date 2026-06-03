@@ -35,7 +35,7 @@
 ### About me ![](lightbulb_black_24dp.svg)
 
 
-Software Engineer Java/Angular with 6+ years of experience developing web applications, participating in various activities within the software development cycle (planning, requirements definition, user stories, design and prototype, unit testing, deployment, maintenance).
+Software Engineer Java/Angular with 7+ years of experience developing web applications, participating in various activities within the software development cycle (planning, requirements definition, user stories, design and prototype, unit testing, deployment, maintenance).
 
 <br>
 <br>
