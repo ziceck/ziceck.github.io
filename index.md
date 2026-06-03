@@ -33,7 +33,7 @@
 ### Perfil ![](lightbulb_black_24dp.svg)
 
 
-Ingeniero de Software Java/Angular con 5+ años de experiencia desarrollando aplicaciones web, participando en diversas actividades dentro del ciclo de desarrollo de software (planeación, definición de requerimientos, historias de usuario, diseño y prototipo, pruebas unitarias, despliegue, mantenimiento).
+Ingeniero de Software Java/Angular con 7+ años de experiencia desarrollando aplicaciones web, participando en diversas actividades dentro del ciclo de desarrollo de software (planeación, definición de requerimientos, historias de usuario, diseño y prototipo, pruebas unitarias, despliegue, mantenimiento).
 
 <br>
 <br>
