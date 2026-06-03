@@ -101,6 +101,17 @@ Ingeniero de Software Java/Angular con 7+ años de experiencia desarrollando apl
 #### Noviembre 2022 - Actualmente
 Sofware Engineer ● Software Engineer II ● Western Governors University
 
+**Actividades**
+- Desarrollo back end con Java.
+- Desarrollo front end con Angular.
+- Manejo de MySQL y ElasticSearch.
+- Documentar y crear manuales de ejecución de aplicaciones legacy.
+- Identificar y administrar recursos AWS para aplicaciones legacy.
+- Corregir vulnerabilidades de aplicaciones en base a reportes de Veracode.
+- Mantener recursos de AWS actualizados, acorde a las necesidades de las aplicaciones, y pipelines funcionando.
+- Dirigir reuniones de transferencia de conocimiento para delegar aplicaciones a equipos.
+- Administración de releases para aplicaciones.
+
 #### Diciembre 2021 - Noviembre 2022
 
 Desarrollador ● Desarrollador web ● GFT Group 
