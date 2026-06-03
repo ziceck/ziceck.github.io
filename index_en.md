@@ -112,6 +112,9 @@ Sofware Engineer ● Software Engineer II ● Western Governors University
 - Fix vulnerabilities in the application based on Veracode scans.
 - Keep AWS resources updated and pipelines working.
 - KT meetings to hand over apps.
+- Manage release cycle for applications.
+- Lead reviews in pull requests.
+- Deploy front end and back end applications using AWS across all lanes (dev, qa, prod).
 
 #### December 2021 - November 2022
 
