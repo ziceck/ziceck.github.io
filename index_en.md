@@ -84,7 +84,7 @@ Software Engineer Java/Angular with 7+ years of experience developing web applic
 - WebStorm
 - Postman
 - Navicat
-- AWS (RDS/Lightsail/EC2)
+- AWS (RDS/Lightsail/EC2/ECS)
 - Sublime Text
 - Git, Github, Gitlab
 - NetBeans
@@ -118,6 +118,7 @@ Sofware Engineer ● Software Engineer II ● Western Governors University
 - Manage release cycle for applications.
 - Lead reviews in pull requests.
 - Deploy front end and back end applications using AWS across all lanes (dev, qa, prod).
+- Monitoring applications using New Relic and Dynatrace.
 
 #### December 2021 - November 2022
 
