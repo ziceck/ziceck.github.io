@@ -38,7 +38,7 @@
 ### About me ![](lightbulb_black_24dp.svg)
 
 
-Software Engineer Java/Angular with 7+ years of experience developing web applications, participating in various activities within the software development cycle (planning, requirements definition, user stories, design and prototype, unit testing, deployment, maintenance).
+Software Engineer Java/Angular/AWS with 7+ years of experience developing web applications, participating in various activities within the software development cycle (planning, requirements definition, user stories, design and prototype, unit testing, deployment, maintenance).
 
 <br>
 <br>
@@ -60,7 +60,7 @@ Software Engineer Java/Angular with 7+ years of experience developing web applic
 ### Languages & Frameworks ![](code_black_24dp.svg)
 
 - Grails & Groovy
-- Spring & Java
+- Spring & Java/Kotlin
 - Angular & TypeScript
 - Bootstrap
 - ORM (Hibernate/GORM)
