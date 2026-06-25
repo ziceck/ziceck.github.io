@@ -79,7 +79,9 @@ Software Engineer Java/Angular/AWS with 7+ years of experience developing web ap
 ### Tools ![](terminal_black_24dp.svg)
 
 
-- Android Studio
+- Kafka
+- CI/CD Pipelines
+- AI Tool (Amazon Q, Copilot, Kiro)
 - IntelliJ IDEA
 - WebStorm
 - Postman
