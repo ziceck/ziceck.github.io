@@ -7,7 +7,7 @@
       	Manuel Del villar    
       </h3>
       <h3 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-       Sr Java Backend Engineer
+       Senior Java Backend Engineer | Java | Spring Boot | AWS | Microservices
       </h3>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
        <img src="place_black_24dp.svg" style="background: #d0f0c0;"> Oaxaca de Juárez, México
@@ -37,7 +37,7 @@
 
 ### About me ![](lightbulb_black_24dp.svg)
 
-Senior Backend Engineer specializing in Java, Spring Boot, Microservices and AWS, with 7+ years of experience designing, developing, and maintaining scalable backend applications and distributed services. Strong expertise across the software development lifecycle, including system design, requirements analysis, technical planning, API development, unit testing, CI/CD, cloud deployment, and production support. Experienced in building robust, scalable, and maintainable backend solutions with a strong focus on performance, reliability, clean architecture, and engineering best practices. Proven experience working in Agile environments using Scrum and Kanban, collaborating with cross-functional teams, participating in sprint planning, backlog refinement, daily stand-ups, retrospectives, and continuous delivery.
+Senior Backend Engineer specializing in Java, Spring Boot, Microservices, REST APIs, and AWS, with 7+ years of experience building scalable and distributed backend systems. Experienced across the full software development lifecycle, including system design, API development, testing, CI/CD, cloud deployment, production support, and technical leadership. Strong background in AWS, Kafka, SQL databases, Docker, and event-driven architectures, with a focus on scalability, reliability, performance, and maintainable software design.
 
 <br>
 <br>
@@ -58,36 +58,17 @@ Senior Backend Engineer specializing in Java, Spring Boot, Microservices and AWS
 <br>
 <hr style="background: #d0f0c0;">
 
-### Languages & Frameworks ![](code_black_24dp.svg)
+### Technical Skills ![](code_black_24dp.svg)
 
-- Spring/SpringBoot & Java/Kotlin
-- ORM (Hibernate/GORM)
-- Gradle
-- Maven
-- SQL (MySQL/PostgreSQL)
-- Spring Security
-
-<br>
-<br>
-<hr style="background: #d0f0c0">
-
-### Tools ![](terminal_black_24dp.svg)
-
-
-- Kafka
-- CI/CD Pipelines
-- AI Tool (Amazon Q, Copilot, Kiro)
-- IntelliJ IDEA
-- Postman
-- Navicat
-- AWS (RDS/DynamoDB/EC2/ECS/S3/Lambda)
-- Git, GitHub, Gitlab
-- Visual Studio Code
-- Swagger
-- JUnit & Mockito
-- Linters.
-- Apache/Tomcat.
-- Docker.
+- Languages: Java, Kotlin, SQL, Groovy
+- Frameworks: Spring Boot, Spring Security, Hibernate, GORM
+- Backend: REST APIs, Microservices, Distributed Systems, Event-Driven Architecture
+- Cloud: AWS, ECS, EC2, RDS, S3, Lambda, DynamoDB
+- Messaging: Kafka, SQS
+- Databases: MySQL, PostgreSQL, Elasticsearch
+- DevOps: Docker, CI/CD, GitHub Actions, GitLab CI/CD
+- Testing: JUnit, Mockito
+- Tools: Maven, Gradle, Swagger/OpenAPI, Postman, IntelliJ IDEA
 
 <br>
 <br>
@@ -105,10 +86,8 @@ Software Engineer ● Software Engineer II ● Western Governors University
 - Remediate security vulnerabilities identified through Veracode and maintain secure, reliable applications.
 - Maintain CI/CD pipelines and deploy backend services across Dev, QA, and Production environments using AWS.
 - Monitor and troubleshoot backend applications using New Relic and Dynatrace.
-- Lead technical projects and development teams, coordinating deliverables, technical decisions, and knowledge transfer.
-- Lead code reviews and ensure adherence to backend development best practices.
+- Led backend development initiatives, conducted code reviews, mentored engineers, and drove technical decisions and best practices across the team.
 - Manage application release cycles and production deployments.
-- Lead backend development teams and mentor engineers through technical guidance, code reviews, knowledge sharing, and best-practice adoption.
 - Design and implement event-driven backend solutions using Apache Kafka/SQS for asynchronous communication, message processing, and integration between distributed services.
 
 Main technologies: **Java**, **Kotlin**, **SpringBoot**, **MySQL**, **ElasticSearch**, **AWS**, **Docker**, **ECS**, **EC2**, **RDS**, **Kafka/SQS**.
