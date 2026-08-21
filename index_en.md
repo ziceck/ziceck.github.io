@@ -25,7 +25,7 @@
          <img src="iconmonstr-github-1.svg" style="background: #d0f0c0;"> <a href="https://www.github.com/ziceck">GitHub </a>
       </h6>
 	  <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-		  <img src="language_es.svg" style="background: #d0f0c0;"> <a href="https://ziceck.github.io">Spanish</a>
+		  <img src="language_us.svg" style="background: #d0f0c0;"> <a href="https://ziceck.github.io/index_en">English</a>
 	  </h6>
     </div>
 </div>
@@ -48,7 +48,7 @@ Software Engineer Java/Angular/AWS with 7+ years of experience developing web ap
 
 
 - Teamwork
-- Time managament
+- Time management
 - Responsible
 - Proactive
 - Communication
@@ -88,7 +88,7 @@ Software Engineer Java/Angular/AWS with 7+ years of experience developing web ap
 - Navicat
 - AWS (RDS/Lightsail/EC2/ECS)
 - Sublime Text
-- Git, Github, Gitlab
+- Git, GitHub, Gitlab
 - NetBeans
 - Visual Studio Code
 - Swagger
@@ -106,7 +106,7 @@ Software Engineer Java/Angular/AWS with 7+ years of experience developing web ap
 ### Professional experience ![](work_black_24dp.svg)
 
 #### November 2022 - Currently
-Sofware Engineer ● Software Engineer II ● Western Governors University
+Software Engineer ● Software Engineer II ● Western Governors University
 
 **Activities:**
 - Back end development using spring boot.
@@ -161,7 +161,7 @@ The main technologies used are: **Git & GitHub**, **Spring & Java**, **Grails & 
 
 #### September 2019 - September 2021
 
-Developer ● FullStack developer ● Universidad LaSalle Oaxaca
+Developer ● FullStack developer ● LaSalle Oaxaca University
 
 **Activities:**
 
@@ -170,7 +170,7 @@ Developer ● FullStack developer ● Universidad LaSalle Oaxaca
 - Coding functionalities at the front-end and back-end level.
 - Fixing and maintenance of applications.
 - Unit tests to ensure code quality.
-- Deploying applications in prod enviroment.
+- Deploying applications in prod environment.
 
 
 
