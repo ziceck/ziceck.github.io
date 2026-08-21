@@ -7,7 +7,7 @@
       	Manuel Del villar    
       </h3>
       <h3 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-       Software Engineer
+       Sr Java Backend Engineer
       </h3>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
        <img src="place_black_24dp.svg" style="background: #d0f0c0;"> Oaxaca de Juárez, México
@@ -37,7 +37,7 @@
 
 ### About me ![](lightbulb_black_24dp.svg)
 
-Senior Backend Engineer specializing in Java, Spring Boot, and AWS, with 7+ years of experience designing, developing, and maintaining scalable backend applications and distributed services. Strong expertise across the software development lifecycle, including system design, requirements analysis, technical planning, API development, unit testing, CI/CD, cloud deployment, and production support. Experienced in building robust, scalable, and maintainable backend solutions with a strong focus on performance, reliability, clean architecture, and engineering best practices. Proven experience working in Agile environments using Scrum and Kanban, collaborating with cross-functional teams, participating in sprint planning, backlog refinement, daily stand-ups, retrospectives, and continuous delivery.
+Senior Backend Engineer specializing in Java, Spring Boot, Microservices and AWS, with 7+ years of experience designing, developing, and maintaining scalable backend applications and distributed services. Strong expertise across the software development lifecycle, including system design, requirements analysis, technical planning, API development, unit testing, CI/CD, cloud deployment, and production support. Experienced in building robust, scalable, and maintainable backend solutions with a strong focus on performance, reliability, clean architecture, and engineering best practices. Proven experience working in Agile environments using Scrum and Kanban, collaborating with cross-functional teams, participating in sprint planning, backlog refinement, daily stand-ups, retrospectives, and continuous delivery.
 
 <br>
 <br>
