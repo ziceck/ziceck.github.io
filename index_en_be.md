@@ -147,7 +147,7 @@ Freelance developer ● FullStack Developer ● PandyWare
 
 
 
-The main technologies used are: **Git & GitHub**, **Spring & Java**, **Angular & TypeScript**, **Apache & Tomcat**, **MySQL**.
+The main technologies used are: **Git & GitHub**, **SpringBoot & Java**, **Angular & TypeScript**, **Apache & Tomcat**, **MySQL**.
 
 
 <br>
