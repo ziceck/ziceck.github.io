@@ -69,7 +69,7 @@ Software Engineer ● Software Engineer II ● Western Governors University
 - Remediate security vulnerabilities identified through Veracode and maintain secure, reliable applications.
 - Maintain CI/CD pipelines and deploy backend services across Dev, QA, and Production environments using AWS.
 - Monitor and troubleshoot backend applications using New Relic and Dynatrace.
-  Lead backend development initiatives, conduct code reviews, mentor engineers, and drive technical decisions and best practices across the team.
+- Lead backend development initiatives, conduct code reviews, mentor engineers, and drive technical decisions and best practices across the team.
 - Manage application release cycles and production deployments.
 - Design and implement event-driven backend solutions using Apache Kafka/SQS for asynchronous communication, message processing, and integration between distributed services.
 
