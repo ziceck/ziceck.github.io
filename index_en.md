@@ -142,13 +142,13 @@ Freelance developer ● FullStack developer ● PandyWare
 
 **Activities:**
 
-- Front-end and back-end coding.
-- Deploying applications in prod enviroment.
-- Fixing and maintenance of applications.
-- Management of pull request, integration of changes and generation of releases.
-- Unit tests to ensure code quality.
-- Coding reusable components to be used within various projects.
-
+- Develop and maintain **full-stack applications** using **Java, Spring Boot, Angular, TypeScript, and MySQL**.
+- Design and implement **backend services and REST APIs** using Spring Boot, deployed on **Apache Tomcat**.
+- Develop reusable **Angular components and services** to support multiple projects.
+- Manage **Git/GitHub workflows**, including pull requests, code integration, branching, and release generation.
+- Deploy applications to **production environments** and provide ongoing maintenance and support.
+- Develop **unit tests** to ensure code quality, reliability, and maintainability.
+- Collaborate within **Scrum teams**, participating in planning, development, code reviews, and continuous improvement.
 
 
 The main technologies used are: **Git & GitHub**, **SpringBoot & Java**, **Angular & TypeScript**, **Apache & Tomcat**, **MySQL**.
@@ -162,12 +162,12 @@ Developer ● FullStack developer ● LaSalle Oaxaca University
 
 **Activities:**
 
-- Planning and definition of requirements.
-- Design and prototype of views.
-- Coding functionalities at the front-end and back-end level.
-- Fixing and maintenance of applications.
-- Unit tests to ensure code quality.
-- Deploying applications in prod environment.
+- Develop **full-stack applications** using **Java, Spring Boot, Angular, TypeScript, MySQL, and PostgreSQL**.
+- Design and implement **REST APIs** and frontend features based on business requirements.
+- Perform **application maintenance, troubleshooting, unit testing, and production deployments**.
+- Manage code integration and version control using **Git/GitLab**.
+- Deploy applications using **Tomcat and Apache**.
+- Collaborate in **Scrum teams** throughout the software development lifecycle.
 
 
 
