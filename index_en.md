@@ -38,7 +38,7 @@
 ### About me ![](lightbulb_black_24dp.svg)
 
 
-Software Engineer Java/Angular/AWS with 7+ years of experience developing web applications, participating in various activities within the software development cycle (planning, requirements definition, user stories, design and prototype, unit testing, deployment, maintenance).
+Full Stack Software Engineer specializing in Java, Spring Boot, Angular, and AWS, with 7+ years of experience designing, developing, testing, deploying, and maintaining scalable web applications. Experienced across the full software development lifecycle, including requirements analysis, user stories, technical design, development, unit testing, CI/CD, cloud deployment, and production support. Proven ability to take ownership of technical initiatives, lead development efforts, mentor team members, and drive solutions from concept to production. Strong experience working in Agile environments using Scrum and Kanban methodologies, collaborating with cross-functional teams to deliver high-quality, scalable, and maintainable software solutions.
 
 <br>
 <br>
@@ -59,18 +59,16 @@ Software Engineer Java/Angular/AWS with 7+ years of experience developing web ap
 
 ### Languages & Frameworks ![](code_black_24dp.svg)
 
-- Grails & Groovy
-- Spring & Java/Kotlin
+- Spring/SpringBoot & Java/Kotlin
 - Angular & TypeScript
 - Bootstrap
 - ORM (Hibernate/GORM)
 - Gradle
 - CSS
-- JQuery
 - JavaScript
 - SQL (MySQL/PostgreSQL)
 - HTML
-- Spring & Spring Security
+- Spring Security
 
 <br>
 <br>
@@ -85,16 +83,11 @@ Software Engineer Java/Angular/AWS with 7+ years of experience developing web ap
 - IntelliJ IDEA
 - WebStorm
 - Postman
-- Navicat
-- AWS (RDS/Lightsail/EC2/ECS)
-- Sublime Text
+- AWS (RDS/DynamoDB/EC2/ECS/S3/Lambda)
 - Git, GitHub, Gitlab
-- NetBeans
 - Visual Studio Code
 - Swagger
-- Spock (TDD & BDD Grails)
-- JasperReports
-- CodeNarc (Quality code tool Grails)
+- JUnit & Mockito
 - Linters.
 - Apache/Tomcat.
 - Docker.
@@ -109,18 +102,20 @@ Software Engineer Java/Angular/AWS with 7+ years of experience developing web ap
 Software Engineer ● Software Engineer II ● Western Governors University
 
 **Activities:**
-- Back end development using spring boot.
-- Front end development using Angular.
-- Queries using MySQL and ElasticSearch.
-- Document and create the run book for legacy applications.
-- Identify AWS resources associated with legacy applications.
-- Fix vulnerabilities in the application based on Veracode scans.
-- Keep AWS resources updated and pipelines working.
-- KT meetings to hand over apps.
-- Manage release cycle for applications.
-- Lead reviews in pull requests.
-- Deploy front end and back end applications using AWS across all lanes (dev, qa, prod).
-- Monitoring applications using New Relic and Dynatrace.
+
+- Full Stack development using Java, Spring Boot, Angular, AWS, and Kafka.
+- Design, develop, and maintain scalable backend services, REST APIs, and frontend applications.
+- Develop and optimize data solutions using MySQL and Elasticsearch.
+- Lead code reviews, technical initiatives, and application releases.
+- Mentor team members and provide technical guidance and knowledge sharing.
+- Manage AWS resources, CI/CD pipelines, and deployments across Dev, QA, and Production.
+- Identify and remediate application vulnerabilities using Veracode.
+- Create technical documentation and runbooks for legacy applications and lead Knowledge Transfer (KT) sessions.
+- Monitor and troubleshoot applications using New Relic and Dynatrace.
+- Collaborate in Scrum/Kanban teams, taking ownership of features and applications throughout the SDLC.
+- Lead and mentor development teams, providing technical guidance, conducting knowledge-sharing sessions, and driving best practices across projects.
+
+Main technologies: **Java**, **Spring Boot**, **MySQL**, **Postman**, **Maven**, **Git/GitLab**, and **IntelliJ IDEA**.
 
 #### December 2021 - November 2022
 
@@ -128,14 +123,16 @@ Developer ● Web developer ● GFT Group
 
 **Activities:**
 
-- Implement the functionality of the flows laid out by the UI/UX team.
-- Fix bugs detected by the test team.
-- Generate reusable components to be used within various projects.
-- Show the functionalities to the client.
-- Unit tests to ensure code quality.
-- Maintenance and update of applications.
+- Develop full-stack applications using Java, Spring Boot, Angular, and MySQL.
+- Design and implement backend microservices and REST APIs using Spring Boot, following scalable and maintainable architecture principles.
+- Develop responsive Angular frontends, integrating them with backend services and APIs.
+- Build reusable frontend components and backend services across multiple projects.
+- Develop and maintain unit tests to ensure code quality, reliability, and maintainability.
+- Troubleshoot and resolve defects across frontend and backend layers in collaboration with QA teams.
+- Participate in Scrum and Kanban methodologies, contributing to planning, estimation, prioritization, and continuous improvement.
+- Present and demonstrate completed full-stack functionalities to clients and stakeholders.
 
-The main technologies used are **Angular & TypeScript** for the front-end, Android Studio to test the hybrid application, **Postman** to test the APIs, **npm** for package management, **WebStorm** as IDE, **Git/GitlLab** for version control.
+The main technologies used are **Angular & TypeScript** for the front-end, Android Studio to test the hybrid application, **Postman** to test the APIs, **npm** for package management, **IntelliJ IDEA** as IDE, **Git/GitlLab** for version control.
 
 <br>
 
@@ -154,7 +151,7 @@ Freelance developer ● FullStack developer ● PandyWare
 
 
 
-The main technologies used are: **Git & GitHub**, **Spring & Java**, **Grails & Groovy**, **Angular & TypeScript**, **Apache & Tomcat**, **MySQL**.
+The main technologies used are: **Git & GitHub**, **SpringBoot & Java**, **Angular & TypeScript**, **Apache & Tomcat**, **MySQL**.
 
 
 <br>
@@ -174,7 +171,7 @@ Developer ● FullStack developer ● LaSalle Oaxaca University
 
 
 
-The main technologies used were **Grails & Groovy** in the back-end for the creation of REST APIs, **Angular & TypeScript** in the front-end, **MySQL/PostgreSQL** for databases, **Git/GitLab** for version control, **Tomcat & Apache** for deployment in a production environment.
+The main technologies used were **Java & SpringBoot** in the back-end for the creation of REST APIs, **Angular & TypeScript** in the front-end, **MySQL/PostgreSQL** for databases, **Git/GitLab** for version control, **Tomcat & Apache** for deployment in a production environment.
 
 <br>
 <br>
