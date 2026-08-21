@@ -63,17 +63,19 @@ Senior Backend Engineer specializing in Java, Spring Boot, Microservices, REST A
 Software Engineer ● Software Engineer II ● Western Governors University
 
 **Activities:**
-- Develop and maintain scalable backend services and REST APIs using Java and Spring Boot within distributed systems.
-- Design and optimize databases using MySQL and Elasticsearch.
-- Design, maintain, and modernize legacy backend applications and their AWS resources.
-- Remediate security vulnerabilities identified through Veracode and maintain secure, reliable applications.
-- Maintain CI/CD pipelines and deploy backend services across Dev, QA, and Production environments using AWS.
-- Monitor and troubleshoot backend applications using New Relic and Dynatrace.
-- Lead backend development initiatives, conduct code reviews, mentor engineers, and drive technical decisions and best practices across the team.
-- Manage application release cycles and production deployments.
-- Design and implement event-driven backend solutions using Apache Kafka/SQS for asynchronous communication, message processing, and integration between distributed services.
 
-Main technologies: **Java**, **Kotlin**, **Spring Boot**, **MySQL**, **Elasticsearch**, **AWS**, **Docker**, **ECS**, **EC2**, **RDS**, **Kafka/SQS**.
+- Own the design, development, and maintenance of scalable backend services and REST APIs using Java and Spring Boot within distributed systems.
+- Design and optimize MySQL and Elasticsearch data solutions, improving application performance, scalability, and reliability.
+- Lead the modernization of legacy backend applications and AWS infrastructure, driving architectural improvements and technical decisions.
+- Design and implement event-driven architectures using Apache Kafka and Amazon SQS for asynchronous communication and integration across distributed services.
+- Drive application security by identifying and remediating vulnerabilities reported by Veracode, following secure development best practices.
+- Own CI/CD pipelines and production deployments across Dev, QA, and Production environments using AWS and GitHub Actions.
+- Monitor and troubleshoot production applications using New Relic and Dynatrace, identifying performance issues and improving system reliability and observability.
+- Lead backend development initiatives, conduct code reviews, mentor engineers, and establish development best practices across the team.
+- Manage application release cycles and production deployments, coordinating technical changes and supporting applications in production.
+
+
+Main technologies: **Java**, **Kotlin**, **Spring Boot**, **Microservices**, **REST APIs**, **MySQL**, **Elasticsearch**, **AWS**, **Docker**, **ECS**, **EC2**, **RDS**, **Kafka**, **SQS**, **CI/CD**.
 
 #### December 2021 - November 2022
 
