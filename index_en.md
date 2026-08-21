@@ -115,7 +115,7 @@ Software Engineer ● Software Engineer II ● Western Governors University
 - Collaborate in Scrum/Kanban teams, taking ownership of features and applications throughout the SDLC.
 - Lead and mentor development teams, providing technical guidance, conducting knowledge-sharing sessions, and driving best practices across projects.
 
-Main technologies: **Java**, **Spring Boot**, **MySQL**, **Postman**, **Maven**, **Git/GitLab**, and **IntelliJ IDEA**.
+Main technologies: **Java**, **Spring Boot**, **Angular**, **TypeScript** **MySQL**, **Postman**, **Maven**, **Git/GitLab**, and **IntelliJ IDEA**.
 
 #### December 2021 - November 2022
 
@@ -132,7 +132,7 @@ Developer ● Web developer ● GFT Group
 - Participate in Scrum and Kanban methodologies, contributing to planning, estimation, prioritization, and continuous improvement.
 - Present and demonstrate completed full-stack functionalities to clients and stakeholders.
 
-The main technologies used are **Angular & TypeScript** for the front-end, Android Studio to test the hybrid application, **Postman** to test the APIs, **npm** for package management, **IntelliJ IDEA** as IDE, **Git/GitlLab** for version control.
+The main technologies used are **Angular & TypeScript** for the front-end, **Java & SpringBoot** for the backend, Android Studio to test the hybrid application, **Postman** to test the APIs, **npm** for package management, **IntelliJ IDEA** as IDE, **Git/GitlLab** for version control.
 
 <br>
 
