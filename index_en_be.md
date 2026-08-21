@@ -1,7 +1,7 @@
 <div style="background: #d0f0c0; display: flex;">
 	<div style="width: 70%;">
       <h3 style="color: black; margin-bottom: 3px;">
-      	Manuel Del villar    
+      	Manuel Del Villar    
       </h3>
       <h3 style="color: black; margin-top: 3px; margin-bottom: 3px;">
        Senior Java Backend Engineer | Java | Spring Boot | AWS | Microservices
