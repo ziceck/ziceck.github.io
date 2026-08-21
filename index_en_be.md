@@ -114,6 +114,7 @@ Software Engineer ● Software Engineer II ● Western Governors University
 - Lead code reviews and ensure adherence to backend development best practices.
 - Manage application release cycles and production deployments.
 - Lead backend development teams and mentor engineers through technical guidance, code reviews, knowledge sharing, and best-practice adoption.
+- Design and implement event-driven backend solutions using Apache Kafka/SQS for asynchronous communication, message processing, and integration between distributed services.
 
 #### December 2021 - November 2022
 
