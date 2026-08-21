@@ -1,10 +1,7 @@
 <div style="background: #d0f0c0; display: flex;">
-    <div style="width: 30%; padding-left: 15px; padding-top: 20px">
-            <img style="border-radius: 50%;" src="1691351443833.jpeg" alt="Manuel" width="150" height="150">
-    </div>
 	<div style="width: 70%;">
       <h3 style="color: black; margin-bottom: 3px;">
-      	Manuel Del villar    
+      	Manuel Del Villar    
       </h3>
       <h3 style="color: black; margin-top: 3px; margin-bottom: 3px;">
        Software Engineer
@@ -99,7 +96,7 @@ Full Stack Software Engineer specializing in Java, Spring Boot, Angular, and AWS
 ### Professional experience ![](work_black_24dp.svg)
 
 #### November 2022 - Currently
-Software Engineer ● Software Engineer II ● Western Governors University
+Software Engineer II ● Western Governors University
 
 **Activities:**
 
@@ -119,7 +116,7 @@ Main technologies: **Java**, **Spring Boot**, **Angular**, **TypeScript** **MySQ
 
 #### December 2021 - November 2022
 
-Developer ● Web developer ● GFT Group 
+Web developer ● GFT Group 
 
 **Activities:**
 
@@ -136,29 +133,10 @@ The main technologies used are **Angular & TypeScript** for the front-end, **Jav
 
 <br>
 
-#### September 2021 - October 2022
-
-Freelance developer ● FullStack developer ● PandyWare
-
-**Activities:**
-
-- Develop and maintain **full-stack applications** using **Java, Spring Boot, Angular, TypeScript, and MySQL**.
-- Design and implement **backend services and REST APIs** using Spring Boot, deployed on **Apache Tomcat**.
-- Develop reusable **Angular components and services** to support multiple projects.
-- Manage **Git/GitHub workflows**, including pull requests, code integration, branching, and release generation.
-- Deploy applications to **production environments** and provide ongoing maintenance and support.
-- Develop **unit tests** to ensure code quality, reliability, and maintainability.
-- Collaborate within **Scrum teams**, participating in planning, development, code reviews, and continuous improvement.
-
-
-The main technologies used are: **Git & GitHub**, **SpringBoot & Java**, **Angular & TypeScript**, **Apache & Tomcat**, **MySQL**.
-
-
-<br>
 
 #### September 2019 - September 2021
 
-Developer ● FullStack developer ● LaSalle Oaxaca University
+FullStack Developer ● LaSalle Oaxaca University
 
 **Activities:**
 
