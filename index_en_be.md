@@ -40,20 +40,6 @@ Senior Backend Engineer specializing in Java, Spring Boot, Microservices, REST A
 <br>
 <hr style="background: #d0f0c0;">
 
-### Personal skills ![](support_black_24dp.svg)
-
-
-- Teamwork
-- Time management
-- Responsible
-- Proactive
-- Communication
-- Ownership
-- Leading and mentoring
-
-<br>
-<br>
-<hr style="background: #d0f0c0;">
 
 ### Technical Skills ![](code_black_24dp.svg)
 
@@ -73,21 +59,21 @@ Senior Backend Engineer specializing in Java, Spring Boot, Microservices, REST A
 
 ### Professional experience ![](work_black_24dp.svg)
 
-#### November 2022 - Currently
+#### November 2022 - Present
 Software Engineer ● Software Engineer II ● Western Governors University
 
 **Activities:**
-- Backend development using Java, Spring Boot, REST APIs, and distributed services.
-- Database development and optimization using MySQL and Elasticsearch.
+- Develop and maintain scalable backend services and REST APIs using Java and Spring Boot within distributed systems.
+- Design and optimize databases using MySQL and Elasticsearch.
 - Design, maintain, and modernize legacy backend applications and their AWS resources.
 - Remediate security vulnerabilities identified through Veracode and maintain secure, reliable applications.
 - Maintain CI/CD pipelines and deploy backend services across Dev, QA, and Production environments using AWS.
 - Monitor and troubleshoot backend applications using New Relic and Dynatrace.
-- Led backend development initiatives, conducted code reviews, mentored engineers, and drove technical decisions and best practices across the team.
+  Lead backend development initiatives, conduct code reviews, mentor engineers, and drive technical decisions and best practices across the team.
 - Manage application release cycles and production deployments.
 - Design and implement event-driven backend solutions using Apache Kafka/SQS for asynchronous communication, message processing, and integration between distributed services.
 
-Main technologies: **Java**, **Kotlin**, **SpringBoot**, **MySQL**, **ElasticSearch**, **AWS**, **Docker**, **ECS**, **EC2**, **RDS**, **Kafka/SQS**.
+Main technologies: **Java**, **Kotlin**, **Spring Boot**, **MySQL**, **Elasticsearch**, **AWS**, **Docker**, **ECS**, **EC2**, **RDS**, **Kafka/SQS**.
 
 #### December 2021 - November 2022
 
@@ -108,40 +94,20 @@ Main technologies: **Java**, **Spring Boot**, **MySQL**, **Postman**, **Maven**,
 
 <br>
 
-#### September 2021 - October 2022
-
-Freelance developer ● FullStack Developer ● PandyWare
-
-**Activities:**
-
-- Backend development focused on business logic, APIs, and application services.
-- Deploy and support backend applications in production environments.
-- Troubleshoot, maintain, and enhance backend services and applications.
-- Manage pull requests, code integration, and backend release cycles.
-- Develop unit tests to ensure code quality, reliability, and maintainability.
-- Build reusable backend components and services across multiple projects.
-
-
-
-The main technologies used are: **Git & GitHub**, **SpringBoot & Java**, **Angular & TypeScript**, **Apache & Tomcat**, **MySQL**.
-
-
-<br>
-
 #### September 2019 - September 2021
 
 Developer ● FullStack developer ●  LaSalle Oaxaca University
 
 **Activities:**
 
-- Analyze business requirements and translate them into technical solutions across the frontend and backend.
-- Design and develop full-stack features, including responsive user interfaces, backend services, and RESTful APIs.
-- Implement application functionality using modern frontend and backend technologies, ensuring seamless integration between layers.
+- Analyze business requirements and translate them into technical solutions across the backend.
+- Design and develop backend features, including responsive user interfaces, backend services, and RESTful APIs.
+- Implement application functionality using modern backend technologies, ensuring seamless integration between layers.
 - Troubleshoot, maintain, and enhance applications while improving performance, reliability, and maintainability.
 - Develop unit tests to ensure code quality, stability, and adherence to development best practices.
-- Deploy and support full-stack applications across production environments, contributing to release and operational activities.
+- Deploy and support backend applications across production environments, contributing to release and operational activities.
 
-The main technologies used were **Java & SpringBoot** in the back-end for the creation of REST APIs, **Angular & TypeScript** in the front-end, **MySQL/PostgreSQL** for databases, **Git/GitLab** for version control, **Tomcat & Apache** for deployment in a production environment.
+The main technologies used were **Java & Spring Boot** in the backend for the creation of REST APIs, **MySQL/PostgreSQL** for databases, **Git/GitLab** for version control, **Tomcat & Apache** for deployment in a production environment.
 
 <br>
 <br>
@@ -170,7 +136,7 @@ Internship ● Developer ● Secretaría de Economía Oaxaca
 
 
 
-The main technologies used were **Grails & Groovy** for the back-end, **Android Studio & Java** for application creation, **Git/Bitbucket** for version control handling, **Balsamic mockups** for the application layout, **MySQL** for the database.
+The main technologies used were **Grails & Groovy** for the backend, **Android Studio & Java** for application creation, **Git/Bitbucket** for version control handling, **Balsamic mockups** for the application layout, **MySQL** for the database.
 
 <br>
 <br>
