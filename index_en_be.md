@@ -61,7 +61,7 @@ Senior Backend Engineer specializing in Java, Spring Boot, Microservices, REST A
 ### Professional experience ![](work_black_24dp.svg)
 
 #### November 2022 - Present
-Software Engineer ● Software Engineer II ● Western Governors University
+Backend Software Engineer II ● Western Governors University
 
 **Activities:**
 
@@ -80,7 +80,7 @@ Main technologies: **Java**, **Kotlin**, **Spring Boot**, **Microservices**, **R
 
 #### December 2021 - November 2022
 
-Developer ● Backend Engineer ● GFT Group/Santander
+Backend Engineer ● GFT Group/Santander
 
 **Activities:**
 
@@ -99,7 +99,7 @@ Main technologies: **Java**, **Spring Boot**, **MySQL**, **Postman**, **Maven**,
 
 #### September 2019 - September 2021
 
-Developer ● FullStack developer ●  LaSalle Oaxaca University
+FullStack Developer ●  LaSalle Oaxaca University
 
 **Activities:**
 
@@ -127,7 +127,7 @@ The main technologies used were **Java & Spring Boot** in the backend for the cr
 ### Internship ![](school_black_24dp.svg)
 #### August 2018 - May 2019
 
-Internship ● Developer ● Secretaría de Economía Oaxaca
+Intern Developer ● Secretaría de Economía Oaxaca
 
 **Activities:**
 
