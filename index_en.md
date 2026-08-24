@@ -41,53 +41,21 @@ Full Stack Software Engineer specializing in Java, Spring Boot, Angular, and AWS
 <br>
 <hr style="background: #d0f0c0;">
 
-### Personal skills ![](support_black_24dp.svg)
 
+### Technical Skills ![](code_black_24dp.svg)
 
-- Teamwork
-- Time management
-- Responsible
-- Proactive
-- Communication
+- Languages: Java, Kotlin, SQL, Groovy, TypeScript, JavaScript
+- Frameworks: Spring Boot, Spring Security, Hibernate, Angular
+- Backend: REST APIs, Microservices, Distributed Systems, Event-Driven Architecture
+- Frontend: Component-Based Architecture, SPA, REST API Integration, State Management, Angular Material, RxJS, Responsive Design
+- Cloud: AWS, ECS, EC2, RDS, S3, Lambda, DynamoDB
+- Messaging: Kafka, SQS
+- Databases: MySQL, PostgreSQL, Elasticsearch
+- DevOps: Docker, CI/CD, GitHub Actions, GitLab CI/CD
+- Testing: JUnit, Mockito
+- Tools: Maven, Gradle, Swagger/OpenAPI, Postman, IntelliJ IDEA
+- AI-Assisted Development: GitHub Copilot, Claude, OpenAI Codex, Generative AI, AI Coding Assistants, Code Generation, Prompt Engineering
 
-<br>
-<br>
-<hr style="background: #d0f0c0;">
-
-### Languages & Frameworks ![](code_black_24dp.svg)
-
-- Spring/SpringBoot & Java/Kotlin
-- Angular & TypeScript
-- Bootstrap
-- ORM (Hibernate/GORM)
-- Gradle
-- CSS
-- JavaScript
-- SQL (MySQL/PostgreSQL)
-- HTML
-- Spring Security
-
-<br>
-<br>
-<hr style="background: #d0f0c0">
-
-### Tools ![](terminal_black_24dp.svg)
-
-
-- Kafka
-- CI/CD Pipelines
-- AI Tool (Amazon Q, Copilot, Kiro)
-- IntelliJ IDEA
-- WebStorm
-- Postman
-- AWS (RDS/DynamoDB/EC2/ECS/S3/Lambda)
-- Git, GitHub, Gitlab
-- Visual Studio Code
-- Swagger
-- JUnit & Mockito
-- Linters.
-- Apache/Tomcat.
-- Docker.
 
 <br>
 <br>
