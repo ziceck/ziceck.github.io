@@ -134,7 +134,7 @@ The main technologies used were **Java & SpringBoot** in the back-end for the cr
 ### Internship ![](school_black_24dp.svg)
 #### August 2018 - May 2019
 
-Developer ● Secretaría de Economía Oaxaca
+Intern Developer ● Secretaría de Economía Oaxaca
 
 **Activities:**
 
