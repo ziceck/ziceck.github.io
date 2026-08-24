@@ -186,6 +186,8 @@ The main technologies used were **Grails & Groovy** for the back-end, **Android 
 <hr style="background: #d0f0c0">
 
 ### Education ![](history_edu_black_24dp.svg)
-#### Instituto Tecnológico de Oaxaca (August 2013 - August 2019)
+#### August 2013 - August 2019
+B.S. in Computer Science (CS) ● Instituto Tecnológico de Oaxaca
 
 I studied computer systems engineering, during my studies, in teamwork we developed an augmented reality application focused on learning to read in children, which participated in national events, the technologies used were **Vuforia** and **Unity**.
+
