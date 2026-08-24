@@ -35,7 +35,7 @@
 ### About me ![](lightbulb_black_24dp.svg)
 
 
-Full Stack Software Engineer specializing in Java, Spring Boot, Angular, and AWS, with 7+ years of experience designing, developing, testing, deploying, and maintaining scalable web applications. Experienced across the full software development lifecycle, including requirements analysis, user stories, technical design, development, unit testing, CI/CD, cloud deployment, and production support. Proven ability to take ownership of technical initiatives, lead development efforts, mentor team members, and drive solutions from concept to production. Strong experience working in Agile environments using Scrum and Kanban methodologies, collaborating with cross-functional teams to deliver high-quality, scalable, and maintainable software solutions.
+Full Stack Software Engineer specializing in Java, Spring Boot, Angular, and AWS, with 7+ years of experience designing, developing, testing, deploying, and maintaining scalable web applications. Experienced across the full Software Development Lifecycle (SDLC), including requirements analysis, user stories, technical design, REST API development, frontend development, unit testing, CI/CD, cloud deployment, and production support. Proven ability to take ownership of technical initiatives, lead development efforts, mentor team members, and deliver solutions from concept to production. Strong experience working in Agile environments using Scrum and Kanban, collaborating with cross-functional teams to build high-quality, scalable, and maintainable software.
 
 <br>
 <br>
