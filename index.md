@@ -1,13 +1,10 @@
 <div style="background: #d0f0c0; display: flex;">
-    <div style="width: 30%; padding-left: 15px; padding-top: 20px">
-            <img style="border-radius: 50%;" src="1691351443833.jpeg" alt="Manuel" width="150" height="150">
-    </div>
 	<div style="width: 70%;">
       <h3 style="color: black; margin-bottom: 3px;">
       	Manuel Del villar    
       </h3>
       <h3 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-       Ingeniero de Software
+       Ingeniero de Software | Java | Angular | Springboot | Typescript | AWS
       </h3>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
        <img src="place_black_24dp.svg" style="background: #d0f0c0;"> Oaxaca de Juárez, México
@@ -102,7 +99,7 @@ Ingeniero de Software Java/Angular con 7+ años de experiencia desarrollando apl
 ### Experiencia Laboral ![](work_black_24dp.svg)
 
 #### Noviembre 2022 - Actualmente
-Sofware Engineer ● Software Engineer II ● Western Governors University
+Software Engineer II ● Western Governors University
 
 **Actividades**
 - Desarrollo back end con Java.
@@ -117,7 +114,7 @@ Sofware Engineer ● Software Engineer II ● Western Governors University
 
 #### Diciembre 2021 - Noviembre 2022
 
-Desarrollador ● Desarrollador web ● GFT Group 
+Desarrollador web ● GFT Group 
 
 **Actividades realizadas:**
 
@@ -132,29 +129,10 @@ Las principales tecnologías utilizadas son **Angular & TypeScript** para el fro
 
 <br>
 
-#### Septiembre 2021 - Octubre 2022
-
-Desarrollador freelance ● Desarrollador FullStack ● PandyWare
-
-**Actividades realizadas:**
-
-- Codificación a nivel front-end y back-end.
-- Despliegue de aplicaciones en ambiente producto.
-- Corrección y mantenimiento de aplicaciones.
-- Manejo de pull request, integración de cambios y generación de releases.
-- Pruebas unitarias para garantizar la calidad del código.
-- Codificación de componentes reutilizables.
-
-
-
-Las principales tecnologías utilizadas son: **Git & GitHub**, **Spring & Java**, **Grails & Groovy**, **Angular & TypeScript**, **Apache & Tomcat**, **MySQL**.
-
-
-<br>
 
 #### Septiembre 2019 - Septiembre 2021
 
-Desarrollador ● Desarrollador FullStack ● Universidad LaSalle Oaxaca
+Desarrollador FullStack ● Universidad LaSalle Oaxaca
 
 **Actividades realizadas:**
 
@@ -185,7 +163,7 @@ Las principales tecnologías utilizadas fueron **Grails & Groovy** en el back-en
 ### Prácticas Profesionales ![](school_black_24dp.svg)
 #### Agosto 2018 - Mayo 2019
 
-Residente ● Desarrollador ● Secretaría de Economía Oaxaca
+Desarrollador ● Secretaría de Economía Oaxaca
 
 **Actividades realizadas:**
 
