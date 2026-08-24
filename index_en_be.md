@@ -103,14 +103,15 @@ FullStack Developer ●  LaSalle Oaxaca University
 
 **Activities:**
 
-- Analyze business requirements and translate them into technical solutions across the backend.
-- Design and develop backend features, including responsive user interfaces, backend services, and RESTful APIs.
-- Implement application functionality using modern backend technologies, ensuring seamless integration between layers.
-- Troubleshoot, maintain, and enhance applications while improving performance, reliability, and maintainability.
-- Develop unit tests to ensure code quality, stability, and adherence to development best practices.
-- Deploy and support backend applications across production environments, contributing to release and operational activities.
+- Analyzed business requirements and translated them into technical solutions across the backend.
+- Designed and developed backend features, including backend services and RESTful APIs.
+- Implemented application functionality using modern backend technologies, ensuring seamless integration between layers.
+- Troubleshot, maintained, and enhanced applications while improving performance, reliability, and maintainability.
+- Developed unit tests to ensure code quality, stability, and adherence to development best practices.
+- Deployed and supported backend applications across production environments, contributing to release and operational activities.
 
-The main technologies used were **Java & Spring Boot** in the backend for the creation of REST APIs, **MySQL/PostgreSQL** for databases, **Git/GitLab** for version control, **Tomcat & Apache** for deployment in a production environment.
+The main technologies used were **Java & Spring Boot** for backend development and REST APIs, **MySQL/PostgreSQL** for databases, **Git/GitLab** for version control, and **Tomcat & Apache** for production deployment.
+
 
 <br>
 <br>
