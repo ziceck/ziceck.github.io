@@ -68,17 +68,17 @@ Software Engineer II ● Western Governors University
 
 **Activities:**
 
-- Full Stack development using Java, Spring Boot, Angular, AWS, and Kafka.
-- Design, develop, and maintain scalable backend services, REST APIs, and frontend applications.
-- Develop and optimize data solutions using MySQL and Elasticsearch.
-- Lead code reviews, technical initiatives, and application releases.
-- Mentor team members and provide technical guidance and knowledge sharing.
-- Manage AWS resources, CI/CD pipelines, and deployments across Dev, QA, and Production.
-- Identify and remediate application vulnerabilities using Veracode.
-- Create technical documentation and runbooks for legacy applications and lead Knowledge Transfer (KT) sessions.
-- Monitor and troubleshoot applications using New Relic and Dynatrace.
-- Collaborate in Scrum/Kanban teams, taking ownership of features and applications throughout the SDLC.
-- Lead and mentor development teams, providing technical guidance, conducting knowledge-sharing sessions, and driving best practices across projects.
+- Performed full-stack development using Java, Spring Boot, Angular, AWS, and Kafka.
+- Designed, developed, and maintained scalable backend services, REST APIs, and frontend applications.
+- Developed and optimized data solutions using MySQL and Elasticsearch.
+- Led code reviews, technical initiatives, and application releases.
+- Mentored team members and provided technical guidance and knowledge sharing.
+- Managed AWS resources, CI/CD pipelines, and deployments across Dev, QA, and Production environments.
+- Identified and remediated application vulnerabilities using Veracode.
+- Created technical documentation and runbooks for legacy applications and led Knowledge Transfer (KT) sessions.
+- Monitored and troubleshot applications using New Relic and Dynatrace.
+- Collaborated in Scrum/Kanban teams, taking ownership of features and applications throughout the SDLC.
+- Led and mentored development teams, providing technical guidance, conducting knowledge-sharing sessions, and driving best practices across projects.
 
 Main technologies: **Java**, **Spring Boot**, **Angular**, **TypeScript** **MySQL**, **Postman**, **Maven**, **Git/GitLab**, and **IntelliJ IDEA**.
 
@@ -88,14 +88,14 @@ Web developer ● GFT Group
 
 **Activities:**
 
-- Develop full-stack applications using Java, Spring Boot, Angular, and MySQL.
-- Design and implement backend microservices and REST APIs using Spring Boot, following scalable and maintainable architecture principles.
-- Develop responsive Angular frontends, integrating them with backend services and APIs.
-- Build reusable frontend components and backend services across multiple projects.
-- Develop and maintain unit tests to ensure code quality, reliability, and maintainability.
-- Troubleshoot and resolve defects across frontend and backend layers in collaboration with QA teams.
-- Participate in Scrum and Kanban methodologies, contributing to planning, estimation, prioritization, and continuous improvement.
-- Present and demonstrate completed full-stack functionalities to clients and stakeholders.
+- Developed full-stack applications using Java, Spring Boot, Angular, and MySQL.
+- Designed and implemented backend microservices and REST APIs using Spring Boot, following scalable and maintainable architecture principles.
+- Developed responsive Angular frontends, integrating them with backend services and APIs.
+- Built reusable frontend components and backend services across multiple projects.
+- Developed and maintained unit tests to ensure code quality, reliability, and maintainability.
+- Troubleshot and resolved defects across frontend and backend layers in collaboration with QA teams.
+- Participated in Scrum and Kanban methodologies, contributing to planning, estimation, prioritization, and continuous improvement.
+- Presented and demonstrated completed full-stack functionalities to clients and stakeholders.
 
 The main technologies used are **Angular & TypeScript** for the front-end, **Java & SpringBoot** for the backend, Android Studio to test the hybrid application, **Postman** to test the APIs, **npm** for package management, **IntelliJ IDEA** as IDE, **Git/GitlLab** for version control.
 
@@ -108,12 +108,12 @@ FullStack Developer ● LaSalle Oaxaca University
 
 **Activities:**
 
-- Develop **full-stack applications** using **Java, Spring Boot, Angular, TypeScript, MySQL, and PostgreSQL**.
-- Design and implement **REST APIs** and frontend features based on business requirements.
-- Perform **application maintenance, troubleshooting, unit testing, and production deployments**.
-- Manage code integration and version control using **Git/GitLab**.
-- Deploy applications using **Tomcat and Apache**.
-- Collaborate in **Scrum teams** throughout the software development lifecycle.
+- Developed full-stack applications using Java, Spring Boot, Angular, TypeScript, MySQL, and PostgreSQL.
+- Designed and implemented REST APIs and frontend features based on business requirements.
+- Performed application maintenance, troubleshooting, unit testing, and production deployments.
+- Managed code integration and version control using Git/GitLab.
+- Deployed applications using Tomcat and Apache.
+- Collaborated in Scrum teams throughout the software development lifecycle.
 
 
 
