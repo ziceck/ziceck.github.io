@@ -4,7 +4,7 @@
       	Manuel Del Villar    
       </h3>
       <h3 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-       Software Engineer
+       Full Stack Software Engineer | Java | Spring Boot | AWS | Microservices | Angular | TypeScript | CSS | HTML | UI
       </h3>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
        <img src="place_black_24dp.svg" style="background: #d0f0c0;"> Oaxaca de Juárez, México
