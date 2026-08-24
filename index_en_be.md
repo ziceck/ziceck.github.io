@@ -44,7 +44,7 @@ Senior Backend Engineer specializing in Java, Spring Boot, Microservices, REST A
 ### Technical Skills ![](code_black_24dp.svg)
 
 - Languages: Java, Kotlin, SQL, Groovy
-- Frameworks: Spring Boot, Spring Security, Hibernate, GORM
+- Frameworks: Spring Boot, Spring Security, Hibernate
 - Backend: REST APIs, Microservices, Distributed Systems, Event-Driven Architecture
 - Cloud: AWS, ECS, EC2, RDS, S3, Lambda, DynamoDB
 - Messaging: Kafka, SQS
@@ -52,6 +52,7 @@ Senior Backend Engineer specializing in Java, Spring Boot, Microservices, REST A
 - DevOps: Docker, CI/CD, GitHub Actions, GitLab CI/CD
 - Testing: JUnit, Mockito
 - Tools: Maven, Gradle, Swagger/OpenAPI, Postman, IntelliJ IDEA
+- AI-Assisted Development: GitHub Copilot, Claude, OpenAI Codex, Generative AI, AI Coding Assistants, Code Generation, Prompt Engineering
 
 <br>
 <br>
