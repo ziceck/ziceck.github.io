@@ -68,17 +68,17 @@ Software Engineer II ● Western Governors University
 
 **Activities:**
 
-- Performed full-stack development using Java, Spring Boot, Angular, AWS, and Kafka.
-- Designed, developed, and maintained scalable backend services, REST APIs, and frontend applications.
-- Developed and optimized data solutions using MySQL and Elasticsearch.
-- Led code reviews, technical initiatives, and application releases.
-- Mentored team members and provided technical guidance and knowledge sharing.
-- Managed AWS resources, CI/CD pipelines, and deployments across Dev, QA, and Production environments.
-- Identified and remediated application vulnerabilities using Veracode.
-- Created technical documentation and runbooks for legacy applications and led Knowledge Transfer (KT) sessions.
-- Monitored and troubleshot applications using New Relic and Dynatrace.
-- Collaborated in Scrum/Kanban teams, taking ownership of features and applications throughout the SDLC.
-- Led and mentored development teams, providing technical guidance, conducting knowledge-sharing sessions, and driving best practices across projects.
+- Perform full-stack development using Java, Spring Boot, Angular, AWS, and Kafka.
+- Design, develop, and maintain scalable backend services, REST APIs, and frontend applications.
+- Develop and optimize data solutions using MySQL and Elasticsearch.
+- Lead code reviews, technical initiatives, and application releases.
+- Mentor team members and provide technical guidance and knowledge sharing.
+- Manage AWS resources, CI/CD pipelines, and deployments across Dev, QA, and Production environments.
+- Identify and remediate application vulnerabilities using Veracode.
+- Create technical documentation and runbooks for legacy applications and led Knowledge Transfer (KT) sessions.
+- Monitor and troubleshoot applications using New Relic and Dynatrace.
+- Collaborate in Scrum/Kanban teams, taking ownership of features and applications throughout the SDLC.
+- Lead and mentor development teams, providing technical guidance, conducting knowledge-sharing sessions, and driving best practices across projects.
 
 Main technologies: **Java**, **Spring Boot**, **Angular**, **TypeScript** **MySQL**, **Postman**, **Maven**, **Git/GitLab**, and **IntelliJ IDEA**.
 
