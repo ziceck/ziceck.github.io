@@ -1,11 +1,11 @@
 <div style="background: #d0f0c0; display: flex;">
 	<div style="width: 70%;">
-      <h3 style="color: black; margin-bottom: 3px;">
+      <h6 style="color: black; margin-bottom: 3px;">
       	Manuel Del Villar    
-      </h3>
-      <h3 style="color: black; margin-top: 3px; margin-bottom: 3px;">
+      </h6>
+      <h6 style="color: black; margin-top: 3px; margin-bottom: 20px;">
        Full Stack Software Engineer | Java | Spring Boot | AWS | Microservices | Angular | TypeScript | CSS | HTML | UI
-      </h3>
+      </h6>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
        <img src="place_black_24dp.svg" style="background: #d0f0c0;"> Oaxaca de Juárez, México
       </h6>
@@ -68,17 +68,17 @@ Software Engineer II ● Western Governors University
 
 **Activities:**
 
-- Perform full-stack development using Java, Spring Boot, Angular, AWS, and Kafka.
-- Design, develop, and maintain scalable backend services, REST APIs, and frontend applications.
-- Develop and optimize data solutions using MySQL and Elasticsearch.
-- Lead code reviews, technical initiatives, and application releases.
-- Mentor team members and provide technical guidance and knowledge sharing.
+- Perform full-stack development using Java, Spring Boot, Angular, TypeScript, AWS, and Kafka.
+- Design and develop REST APIs, backend services, Angular components, and frontend features.
+- Build responsive user interfaces, forms, validations, routing, and API integrations using Angular and TypeScript.
+- Develop and optimize backend data solutions using MySQL and Elasticsearch.
+- Lead code reviews, technical initiatives, and application releases across frontend and backend.
 - Manage AWS resources, CI/CD pipelines, and deployments across Dev, QA, and Production environments.
 - Identify and remediate application vulnerabilities using Veracode.
-- Create technical documentation and runbooks for legacy applications and led Knowledge Transfer (KT) sessions.
-- Monitor and troubleshoot applications using New Relic and Dynatrace.
-- Collaborate in Scrum/Kanban teams, taking ownership of features and applications throughout the SDLC.
-- Lead and mentor development teams, providing technical guidance, conducting knowledge-sharing sessions, and driving best practices across projects.
+- Create technical documentation and runbooks for legacy applications and lead Knowledge Transfer (KT) sessions.
+- Monitor and troubleshoot frontend and backend applications using New Relic and Dynatrace.
+- Collaborate in Scrum/Kanban teams, taking ownership of full-stack features throughout the SDLC.
+- Mentor team members and provide technical guidance across frontend and backend development.
 
 Main technologies: **Java**, **Spring Boot**, **Angular**, **TypeScript** **MySQL**, **Postman**, **Maven**, **Git/GitLab**, and **IntelliJ IDEA**.
 
