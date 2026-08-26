@@ -47,12 +47,12 @@ Full Stack Software Engineer specializing in Java, Spring Boot, Angular, and AWS
 - Languages: Java, Kotlin, SQL, Groovy, TypeScript, JavaScript
 - Frameworks: Spring Boot, Spring Security, Hibernate, Angular
 - Backend: REST APIs, Microservices, Distributed Systems, Event-Driven Architecture
-- Frontend: HTML, CSS, Component-Based Architecture, SPA, REST API Integration, State Management, Angular Material, Bootstrap, RxJS, Responsive Design
+- Frontend: HTML, CSS, Component-Based Architecture, SPA, REST API Integration, State Management, Angular Material, Bootstrap, RxJS, Responsive Design, Signals
 - Cloud: AWS, ECS, EC2, RDS, S3, Lambda, DynamoDB
 - Messaging: Kafka, SQS
 - Databases: MySQL, PostgreSQL, Elasticsearch
 - DevOps: Docker, CI/CD, GitHub Actions, GitLab CI/CD
-- Testing: JUnit, Mockito
+- Testing: JUnit, Mockito, Jasmine, Karma
 - Tools: Maven, Gradle, Swagger/OpenAPI, Postman, IntelliJ IDEA
 - AI-Assisted Development: GitHub Copilot, Claude, OpenAI Codex, Generative AI, AI Coding Assistants, Code Generation, Prompt Engineering
 
