@@ -82,6 +82,8 @@ Software Engineer II ● Western Governors University
 
 Main technologies: **Java**, **Spring Boot**, **Angular**, **TypeScript** **MySQL**, **Postman**, **Maven**, **Git/GitLab**, and **IntelliJ IDEA**.
 
+<br>
+
 #### December 2021 - November 2022
 
 Web developer ● GFT Group 
