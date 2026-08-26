@@ -47,7 +47,7 @@ Full Stack Software Engineer specializing in Java, Spring Boot, Angular, and AWS
 - Languages: Java, Kotlin, SQL, Groovy, TypeScript, JavaScript
 - Frameworks: Spring Boot, Spring Security, Hibernate, Angular
 - Backend: REST APIs, Microservices, Distributed Systems, Event-Driven Architecture
-- Frontend: Component-Based Architecture, SPA, REST API Integration, State Management, Angular Material, RxJS, Responsive Design
+- Frontend: HTML, CSS, Component-Based Architecture, SPA, REST API Integration, State Management, Angular Material, Bootstrap, RxJS, Responsive Design
 - Cloud: AWS, ECS, EC2, RDS, S3, Lambda, DynamoDB
 - Messaging: Kafka, SQS
 - Databases: MySQL, PostgreSQL, Elasticsearch
