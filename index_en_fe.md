@@ -47,7 +47,7 @@ Senior Frontend Engineer specializing in Angular, TypeScript, JavaScript, HTML, 
 
 - Languages: TypeScript, JavaScript
 - Frameworks: Angular, Angular Material
-- Frontend: HTML, CSS, Bootstrap, Component-Based Architecture, Single-Page Applications (SPA), Responsive Design, State Management, RxJS, Reactive Programming, REST API Integration, UI/UX Implementation
+- Frontend: HTML, CSS, Bootstrap, Component-Based Architecture, Single-Page Applications (SPA), Responsive Design, State Management, RxJS, Reactive Programming, REST API Integration, UI/UX Implementation, Signals.
 - Testing: Jasmine, Karma, Jest, Unit Testing, Component Testing
 - DevOps & CI/CD: Git, GitHub Actions, GitLab CI/CD, Docker, CI/CD
 - API & Development Tools: REST APIs, Swagger/OpenAPI, Postman, npm
