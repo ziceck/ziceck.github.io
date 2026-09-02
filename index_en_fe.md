@@ -23,7 +23,7 @@
          <img src="iconmonstr-github-1.svg" style="background: #d0f0c0;"> <a href="https://www.github.com/ziceck">GitHub </a>
       </h6>
 	  <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
-		  <img src="language_us.svg" style="background: #d0f0c0;"> <a href="https://ziceck.github.io/index_en">English</a>
+		  <img src="language_us.svg" style="background: #d0f0c0;"> <a href="https://ziceck.github.io/index_en_fe">English</a>
 	  </h6>
     </div>
 </div>
