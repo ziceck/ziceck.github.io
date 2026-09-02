@@ -1,12 +1,12 @@
 
 <div style="background: #d0f0c0; display: flex;">
 	<div style="width: 70%;">
-      <h3 style="color: black; margin-bottom: 3px;">
+      <h6 style="color: black; margin-bottom: 3px;">
       	Manuel Del Villar    
-      </h3>
-      <h3 style="color: black; margin-top: 3px; margin-bottom: 3px;">
+      </h6>
+      <h6 style="color: black; margin-top: 3px; margin-bottom: 20px;">
        Senior Frontend Engineer | Angular | TypeScript | CSS | HTML | UI | AWS
-      </h3>
+      </h6>
       <h6 style="color: black; margin-top: 3px; margin-bottom: 3px;">
        <img src="place_black_24dp.svg" style="background: #d0f0c0;"> Oaxaca de Juárez, México
       </h6>
